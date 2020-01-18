@@ -1,0 +1,24 @@
+{
+"Products":[
+[{"id":1,"name":"Glider, squirrel","category":"Maroon"},
+{"id":2,"name":"Otter, brazilian","category":"Maroon"},
+{"id":3,"name":"Jackal, asiatic","category":"Fuscia"},
+{"id":4,"name":"Mara","category":"Red"},
+{"id":5,"name":"Red-shouldered glossy starling","category":"Orange"},
+{"id":6,"name":"Chickadee, black-capped","category":"Pink"},
+{"id":7,"name":"Black-throated butcher bird","category":"Green"},
+{"id":8,"name":"Eagle, pallas's fish","category":"Indigo"},
+{"id":9,"name":"Capuchin, white-fronted","category":"Pink"},
+{"id":10,"name":"Bontebok","category":"Teal"},
+{"id":11,"name":"Southern elephant seal","category":"Green"},
+{"id":12,"name":"Black bear","category":"Indigo"},
+{"id":13,"name":"Black kite","category":"Khaki"},
+{"id":14,"name":"Tayra","category":"Pink"},
+{"id":15,"name":"Southern screamer","category":"Turquoise"},
+{"id":16,"name":"Tortoise, asian foreset","category":"Red"},
+{"id":17,"name":"Fox, savanna","category":"Red"},
+{"id":18,"name":"Snake, western patch-nosed","category":"Turquoise"},
+{"id":19,"name":"Blue duck","category":"Green"},
+{"id":20,"name":"Giant anteater","category":"Crimson"}]
+]
+}
